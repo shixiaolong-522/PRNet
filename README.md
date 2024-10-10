@@ -7,7 +7,7 @@
 ## Visualization
 ## References
 Our work is based on these models. (IPMT,PFENet and SSP)
-* [IPMT](https://github.com/liuyuanwei98/ipmt):
+* [IPMT](https://github.com/liuyuanwei98/ipmt):Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation
 * [PFENet](https://github.com/Jia-Research-Lab/PFENet):Prior Guided Feature Enrichment Network for Few-Shot Segmentation
 * [SSP](https://github.com/fanq15/ssp):Self-Support Few-Shot Semantic Segmentation
 
