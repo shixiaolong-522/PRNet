@@ -19,7 +19,7 @@ pycocotools
 #### Build Dependencies
 ```
 cd model/
-unrar ops.rar
+unzip ops.zip
 cd model/ops
 bash make.sh
 cd ../../
