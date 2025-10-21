@@ -29,6 +29,25 @@ cd ../../
 
 + COCO-20^i: Please download COCO2017 dataset from [here](https://cocodataset.org/#download). Put or link the dataset to ```YOUR_PROJ_PATH/data/coco```. And make the directory like this:
 
+```
+${YOUR_PROJ_PATH}
+|-- data
+`-- |-- coco
+    `-- |-- annotations
+        |   |-- instances_train2017.json
+        |   `-- instances_val2017.json
+        |-- train2017
+        |   |-- 000000000009.jpg
+        |   |-- 000000000025.jpg
+        |   |-- 000000000030.jpg
+        |   |-- ... 
+        `-- val2017
+            |-- 000000000139.jpg
+            |-- 000000000285.jpg
+            |-- 000000000632.jpg
+            |-- ... 
+```
+
 ## References
 Our work is based on these models. (IPMT,PFENet and SSP)
 * [IPMT](https://github.com/liuyuanwei98/ipmt):Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation
