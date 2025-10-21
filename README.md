@@ -18,7 +18,9 @@ pycocotools
 ```
 #### Build Dependencies
 ```
-cd model/ops/
+cd model/
+unrar ops.rar
+cd model/ops
 bash make.sh
 cd ../../
 ```
